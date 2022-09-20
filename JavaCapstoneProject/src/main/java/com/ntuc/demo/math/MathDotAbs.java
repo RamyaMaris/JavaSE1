@@ -1,0 +1,10 @@
+
+package com.ntuc.demo.math;
+
+public class MathDotAbs {
+    public static void main(String args[]) {
+        System.out.println(Math.abs(-6.1)); // output is 6.1
+        System.out.println(Math.abs(3.2)); //  output is 3.2
+        System.out.println(Math.abs(8)); // output is 8
+    }
+}
